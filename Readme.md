@@ -1,5 +1,5 @@
-###  Server ve Client olacak şekilde Asenkron çalısıyor Öncelikle server olanı ayagı kaldırın ve daha sonra client ile istekte bulunun  
-### result olarak "Hello What is Your name ?"   görmelisiniz... 
+## Server ve Client her ikiside asenkron çalışıyor. Öncelikle Server'ı ayağı kaldırın daha sonra Client ile istekte bulunun  
+## respons olarak "Hello What is Your name ?"   görmelisiniz... 
 
 
 <div align="">
